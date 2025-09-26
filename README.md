@@ -42,7 +42,7 @@ I love transforming raw data into actionable insights and visual stories. Whethe
 - Linkedin: https://www.linkedin.com/in/shubham-kadam-b8856031a/
 - Whatsapp: +918591577833
 - Email: shubham85kadam@gmail.com
-- College Mail:shubhamkadamcs5284@rjcollege.edu.in
+- College Mail: shubhamkadamcs5284@rjcollege.edu.in
 
 ---
 
