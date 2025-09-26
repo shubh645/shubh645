@@ -42,8 +42,8 @@ I love transforming raw data into actionable insights and visual stories. Whethe
 
 ## 🌐 Connect with Me
 
-- Linkedin: https://www.linkedin.com/in/shubham-kadam-b8856031a/
 - Whatsapp: +918591577833
+- Linkedin: https://www.linkedin.com/in/shubham-kadam-b8856031a/
 - Email: shubham85kadam@gmail.com
 - College Mail: shubhamkadamcs5284@rjcollege.edu.in
 
