@@ -35,20 +35,17 @@ Welcome to my GitHub profile! I’m passionate about uncovering insights from co
 
 I love transforming raw data into actionable insights and visual stories. Whether it's analyzing census data or streaming trends, I believe in the power of data to inform and inspire.
 
-<!-- Optional Social Links Section: 
 ## 🌐 Connect with Me
 
-- [LinkedIn](#)  
-- [Twitter](#)  
-- [Personal Website](#)  
--->
+- Linkedin: https://www.linkedin.com/in/shubham-kadam-b8856031a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgwr%2FVIfMSqW2eJiFPI9ozQ%3D%3D
+- Whatsapp: +918591577833
+- Email: shubham85kadam@gmail.com
 
-<!-- Optional Achievements Section: 
+---
+
 ## 🏅 Achievements & Certifications
 
-- Data Analytics Certification - [Institute/Provider]
-- Winner, [Competition/Event]
--->
+- Data Analytics Certification - https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/
 
 ---
 
