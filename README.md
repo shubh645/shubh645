@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m passionate about uncovering insights from co
 - **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn, R
 - **Databases:** SQL, PostgreSQL, Oracle Database
 - **Web:** HTML, CSS, JavaScript
-- **Other:** Data visualization, storytelling, problem solving
+- **Other:** Data visualization with Power Bi & Tableau, storytelling, problem solving
 
 ---
 
