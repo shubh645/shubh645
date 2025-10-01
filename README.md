@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shubham! 
-<img src="myimage1.jpg" style="border-radius:200px ; width:300px;"/>
+<img src="myimage1.jpg" style="border-radius:2rem ; width:300px;"/>
 
 **Data Analyst | Python & SQL Enthusiast | Insightful Storyteller with Data**
 
