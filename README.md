@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham!
 
-![Description](myimage1.png)
+![Description](myimage1.jpg)
 
 **Data Analyst | Python & SQL Enthusiast | Insightful Storyteller with Data**
 
