@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shubham! 
 
 <img src="myimage1.jpg"/>
+
 **Data Analyst | Python & SQL Enthusiast | Insightful Storyteller with Data**
 
 ---
