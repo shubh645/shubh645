@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham! 
 
-<img src="myimage1.jpg"/>
+<img src="myimage1.jpg" style="border-radius:100px; width:2000px;"/>
 
 **Data Analyst | Python & SQL Enthusiast | Insightful Storyteller with Data**
 
