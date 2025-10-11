@@ -18,8 +18,11 @@ Welcome to my GitHub profile! I’m passionate about uncovering insights from co
   Analytical deep-dive into Netflix’s content library—genre distribution, ratings, and trends, powered by Pandas and Matplotlib.
 
 - [**Covid-19-analysis**](https://github.com/shubh645/Covid-19-analysis)  
-  Comprehensive analysis of the Covid-19 pandemic using publicly available Kaggle datasets. Explores key trends and patterns with Python libraries (Pandas, NumPy),   and presents findings through insightful visualizations in Matplotlib.
+  Comprehensive analysis of the Covid-19 pandemic using publicly available Kaggle datasets. Explores key trends and patterns with Python libraries (Pandas, NumPy), and presents findings through insightful visualizations in Matplotlib.
   
+- [**SHUBHAM-s-CodeQuotient**](https://github.com/shubh645/SHUBHAM-s-CodeQuotient)  
+  A showcase of my coding journey—projects, challenges, and solutions across data analysis along with the tutorials, free compiler and datasets through web technology.
+
 ---
 
 ## 🛠️ Skills & Tools
