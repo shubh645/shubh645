@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m passionate about uncovering insights from co
 ## 🚀 Top Projects
 - [**Electric-Vehicle-WA**](https://github.com/shubh645/Electric-Vehicle-WA)                                        
 PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation.                                
-​Visualization: Uses pandas/seaborn to plot top EV brands and models.
+​Visualization: Uses pandas/seaborn to plot top EV brands and models.                                       
 ​Spark ML Forecast: Employs Linear Regression (Spark ML) to forecast future Tesla registrations.
 
 - [**IND-Census-2011--analysis**](https://github.com/shubh645/IND-Census-2011--analysis)  
