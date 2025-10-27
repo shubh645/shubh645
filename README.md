@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I’m passionate about uncovering insights from complex datasets and presenting them with clarity. My toolbox includes Python, Pandas, NumPy, Matplotlib, Seaborn, SQL (PostgreSQL, Oracle), R programming, and a dash of web development (HTML, CSS, JavaScript).
 
 ## 🚀 Top Projects
-- [**Electric-Vehicle-WA**](https://github.com/shubh645/Electric-Vehicle-WA)
+- [**Electric-Vehicle-WA**](https://github.com/shubh645/Electric-Vehicle-WA)                                        
 PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation.
 ​Visualization: Uses pandas/seaborn to plot top EV brands and models.
 ​Spark ML Forecast: Employs Linear Regression (Spark ML) to forecast future Tesla registrations.
