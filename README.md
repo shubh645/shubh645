@@ -8,9 +8,7 @@ Welcome to my GitHub profile! I’m passionate about uncovering insights from co
 
 ## 🚀 Top Projects
 - [**Electric-Vehicle-WA**](https://github.com/shubh645/Electric-Vehicle-WA)                                        
-PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation.                                
-​Visualization: Uses pandas/seaborn to plot top EV brands and models.                                       
-​Spark ML Forecast: Employs Linear Regression (Spark ML) to forecast future Tesla registrations.
+PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation. ​Visualization: Uses pandas/seaborn to plot top EV brands and models. Spark ML Forecast: Employs Linear Regression (Spark ML) to forecast future Tesla registrations.
 
 - [**IND-Census-2011--analysis**](https://github.com/shubh645/IND-Census-2011--analysis)  
   In-depth analysis of the 2011 Indian Census, exploring population trends, demographics, and social insights with data visualization.
@@ -24,7 +22,7 @@ PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation.
 - [**Covid-19-analysis**](https://github.com/shubh645/Covid-19-analysis)  
   Comprehensive analysis of the Covid-19 pandemic using publicly available Kaggle datasets. Explores key trends and patterns with Python libraries (Pandas, NumPy), and presents findings through insightful visualizations in Matplotlib.
   
-- [**SHUBHAM-s-CodeQuotient**](https://github.com/shubh645/SHUBHAM-s-CodeQuotient)  
+- [**SHUBHAM-s-CodeQuotient**](https://github.com/Asura-824/CodeQuotient)  
   A showcase of my coding journey—projects, challenges, and solutions across data analysis along with the tutorials, free compiler and datasets through web technology.
 
 ---
