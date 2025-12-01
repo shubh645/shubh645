@@ -54,7 +54,7 @@ I love transforming raw data into actionable insights and visual stories. Whethe
 ## 🏅 Achievements & Certifications
 
 - Data Analytics Certification - https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/
-- Floydee Bootcamp Certification - https://www.linkedin.com/posts/shubham-kadam-b8856031a_floydee-boot-camp-session-activity-7394419270342045696-pxP-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFDiSJgB0ZNX13cSPKikUWwf11Ts_FE4haU
+
 ---
 
 _Thanks for visiting my GitHub! Feel free to explore my projects or reach out if you share a passion for data._
